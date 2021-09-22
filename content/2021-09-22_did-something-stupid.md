@@ -5,8 +5,13 @@ severity: major-outage
 affectedsystems:
   - api
   - site-delivery
-resolved: false
+resolved: true
+modified: '2021-09-22T08:56:29.709Z'
 ---
 I'd rather not talk about it
 
 <!--- language code: en -->
+
+::: update Resolved | 2021-09-22T08:56:29.709Z
+Don't know what fixed it, but it works now.
+:::
