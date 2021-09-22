@@ -3,6 +3,7 @@ module.exports = {
   "name": "sykez.com",
   "description": "",
   "defaultLocale": "en",
+  "baseUrl": 'https://status.sykez.com',
   "locales": [
     {
       "code": "en",
